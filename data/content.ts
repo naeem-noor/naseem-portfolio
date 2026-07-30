@@ -236,7 +236,7 @@ export const featuredProjects: FeaturedProject[] = [
     location: "CBD, Lahore",
     description:
       "Multipurpose high-rise development under full schedule ownership from inception, with earned-value tracking and cross-functional coordination across construction, sales, and procurement.",
-    image: "/Images/ZameenVault.jpg",
+    image: "/Images/ZameenVault.webp",
     officialWebsite: "https://zameendevelopments.com/zameen-vault",
     specs: [
       { value: "~1.79M sft", label: "Built-Up Area" },
@@ -255,7 +255,7 @@ export const featuredProjects: FeaturedProject[] = [
     location: "Multan",
     description:
       "G+4 podium rising into three towers of 17, 12, and 15 storeys — scheduled and tracked as a single integrated programme across podium and tower sequencing.",
-    image: "/Images/downtown_rumanza.jpeg",
+    image: "/Images/downtown_rumanza.webp",
     officialWebsite: "https://zameendevelopments.com/downtown-romanza",
     specs: [
       { value: "~1.61M sft", label: "Built-Up Area" },
@@ -274,7 +274,7 @@ export const featuredProjects: FeaturedProject[] = [
     location: "CBD, Lahore",
     description:
       "Multipurpose high-rise with four basement levels, driven from project inception under full Primavera P6 control alongside monthly look-ahead programming.",
-    image: "/Images/ZameenArx.jpg",
+    image: "/Images/ZameenArx.webp",
     officialWebsite: "https://zameendevelopments.com/zameen-arx",
     specs: [
       { value: "PKR 10B", label: "Budget at Completion" },
