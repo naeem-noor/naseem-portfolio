@@ -39,8 +39,8 @@ export const intro = {
     "I translate complex project data into decisions — maintaining schedule integrity across multi-project portfolios, catching variance early, and supporting recovery planning when programmes come under pressure.",
   body: "I own baseline schedules in Primavera P6 and drive delivery through earned value tracking, look-ahead programming, cash flow analysis, and executive-level progress reporting. I report directly to project leadership and build the deliverables that inform their decisions.",
   facts: [
-    { term: "Current Role", detail: "Planning Engineer, Zameen Developments" },
-    { term: "Based In", detail: "Lahore, Punjab, Pakistan" },
+    { term: "Current Role", detail: "Manager - Engineering Works, Government of Pakistan" },
+    { term: "Based In", detail: "Islamabad, Pakistan" },
     { term: "Education", detail: "B.Sc Civil Engineering, UET Taxila" },
     { term: "Core System", detail: "Primavera P6 · Primavera Risk Analysis" },
   ],
@@ -128,7 +128,7 @@ export const experience: ExperienceItem[] = [
     current: true,
     dateRange: "September 2026 — Present",
     company: "Government of Pakistan",
-    role: "Manager - Engg Works",
+    role: "Manager - Engineering Works",
     location: "Islamabad",
     description:
       "Responsible for managing, planning, and supervising engineering and construction works at the National Police Foundation (NPF), Islamabad. Oversee project execution, civil works, infrastructure development, maintenance, quality control, and site activities to ensure compliance with approved drawings, technical specifications, safety standards, and project timelines. Coordinate with consultants, contractors, and relevant stakeholders to ensure efficient resource utilization, cost control, timely completion, and delivery of high-quality engineering works.",
