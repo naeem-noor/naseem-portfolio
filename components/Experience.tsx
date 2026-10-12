@@ -8,7 +8,6 @@ export default function Experience() {
         <Reveal className="section-head">
           <div className="eyebrow">Career Journey</div>
           <h2>Progression through project control.</h2>
-          <p>Two portfolios, one discipline: keeping the schedule the single source of truth from inception to handover.</p>
         </Reveal>
 
         <Reveal>

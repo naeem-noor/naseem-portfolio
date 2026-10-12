@@ -126,7 +126,21 @@ export type ExperienceItem = {
 export const experience: ExperienceItem[] = [
   {
     current: true,
-    dateRange: "August 2024 — Present · 2 Years",
+    dateRange: "September 2026 — Present",
+    company: "Government of Pakistan",
+    role: "Manager - Engg Works",
+    location: "Islamabad",
+    description:
+      "Responsible for managing, planning, and supervising engineering and construction works at the National Police Foundation (NPF), Islamabad. Oversee project execution, civil works, infrastructure development, maintenance, quality control, and site activities to ensure compliance with approved drawings, technical specifications, safety standards, and project timelines. Coordinate with consultants, contractors, and relevant stakeholders to ensure efficient resource utilization, cost control, timely completion, and delivery of high-quality engineering works.",
+    bullets: [
+      "Manage and supervise engineering and construction works at NPF, Islamabad, ensuring adherence to approved drawings, technical specifications, safety standards, and project timelines.",
+      "Coordinate with consultants, contractors, and relevant stakeholders to ensure efficient resource utilization, cost control, timely completion, and delivery of high-quality engineering works.",
+    ],
+    tools: ["Primavera P6", "Primavera Risk Analysis", "Power BI", "Microsoft Suite"],
+  },
+  {
+    current: true,
+    dateRange: "August 2024 — August 2026 · 2 Years 1 Month",
     company: "Zameen Developments",
     role: "Planning Engineer",
     location: "Lahore",
